@@ -11,4 +11,4 @@ def play_game(player2)
 end
 
 start_game("Rocky", "Bullwinkle")
-play_game("Jay-Z", "Beyonce")
+play_game("Jay-Z")
